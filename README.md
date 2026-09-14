@@ -9,6 +9,10 @@ An end-to-end Power BI & Python analytics project transforming raw e-commerce sa
 https://drive.google.com/drive/folders/1Nq5u5RQviBmNA2l0gKnpOXvk_23oMBDk?usp=drive_link
 
 ---
+
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://lnkd.in/p/eYpW3Jjg))
+
+---
 ## 🛠️ Tech Stack & Tools
 * **Data Cleaning & Pipeline:** Python (`Pandas`, `NumPy`)
 * **Data Modeling & DAX:** Microsoft Power BI
@@ -49,6 +53,10 @@ Special thanks to my teammate **Ahmed Emam** for the valuable collaboration, eff
 <img width="1147" height="640" alt="Screenshot 2026-09-14 215034" src="https://github.com/user-attachments/assets/b3f82be9-44a9-4bb2-8e12-0b7613a9f63d" />
 <img width="1146" height="640" alt="Screenshot 2026-09-14 215052" src="https://github.com/user-attachments/assets/e76ccb43-651d-4ab0-b4d1-eb11a8f36d0d" />
 <img width="1144" height="643" alt="Screenshot 2026-09-14 215110" src="https://github.com/user-attachments/assets/60167ea0-44fb-4c08-a1a6-e516d71cb627" />
+
+
+
+
 
 
 
