@@ -10,7 +10,11 @@ https://drive.google.com/drive/folders/1Nq5u5RQviBmNA2l0gKnpOXvk_23oMBDk?usp=dri
 
 ---
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://lnkd.in/p/eYpW3Jjg))
+### 🎥 Live Video Demonstration
+
+[![Watch Video]([https://img.shields.io/badge/Watch_Project_Demo-Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE](https://lnkd.in/p/eYpW3Jjg))
+
+> 🍿 **Project Walkthrough:** A comprehensive video explaining the data pipeline, DAX measures, and interactive report functionality.
 
 ---
 ## 🛠️ Tech Stack & Tools
