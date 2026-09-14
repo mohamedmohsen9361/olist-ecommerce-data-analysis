@@ -6,8 +6,7 @@ An end-to-end Power BI & Python analytics project transforming raw e-commerce sa
 
 ## 🔗 Project Links & Resources
 
-* 📊 **Interactive Dashboard (Google Drive):** [View Power BI File & Screenshots]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1Nq5u5RQviBmNA2l0gKnpOXvk_23oMBDk?usp=drive_link))
-* 📁 **Dataset Source:** Olist Brazilian E-Commerce Dataset
+https://drive.google.com/drive/folders/1Nq5u5RQviBmNA2l0gKnpOXvk_23oMBDk?usp=drive_link
 
 ---
 ## 🛠️ Tech Stack & Tools
