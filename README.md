@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1Nq5u5RQviBmNA2l0gKnpOXvk_23oMBDk?usp=dri
 
 ### 🎥 Live Video Demonstration
 
-[![Watch Video]([https://img.shields.io/badge/Watch_Project_Demo-Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE](https://lnkd.in/p/eYpW3Jjg))
+[![Watch Video]([https://img.shields.io/badge/Watch_Project_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/ZqmdRQSjjVw](https://youtu.be/zcHu-GrFUMg?si=ayMcRy692OaTkRk3))
 
 > 🍿 **Project Walkthrough:** A comprehensive video explaining the data pipeline, DAX measures, and interactive report functionality.
 
